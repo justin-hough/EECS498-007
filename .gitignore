@@ -173,3 +173,6 @@ cython_debug/
 # Microsoft Word
 ~$*.docx
 ~*.tmp
+
+# Pytorch
+.pt
