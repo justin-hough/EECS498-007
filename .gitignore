@@ -175,4 +175,4 @@ cython_debug/
 ~*.tmp
 
 # Pytorch
-.pt
+*.pt
