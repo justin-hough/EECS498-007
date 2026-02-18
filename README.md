@@ -2,7 +2,13 @@
 
 This repository contains my solutions to the six programming assignments and my detailed lecture notes from the University of Michigan's Deep Learning for Computer Vision course.
 
-[<div align="center"><img src="./Assignment%201/eecs598/cover.png" alt="EECS 498-007 Lecture Notes Cover Page" height="360"></div>](https://github.com/justin-hough/EECS498-007/blob/main/Notes.pdf)
+<p align="center">
+  <a href="https://github.com/justin-hough/EECS498-007/blob/main/Notes.pdf">
+    <img src="./Assignment%201/eecs598/cover.png"
+         alt="EECS 498-007 Lecture Notes Cover Page"
+         width="260px">
+  </a>
+</p>
 
 If you're interested in deep learning and computer vision and you have some prerequisite knowledge, I highly recommend this course.
 
@@ -91,13 +97,28 @@ The course provides a "deep dive into details of neural-network based deep learn
 - Saliency maps
 - Style transfer
 
-|  |  |
-| :--- | :---: |
-| Adversarial attack | <img src="./Assignment 6/adversarial_attacks_results.jpg" height=128/> |
-| GAN generated image | <img src="./Assignment 6/dc_gan_results.jpg" height=128/> |
-| Style transfer | <img src="./Assignment 6/style_transfer_result.jpg" height=128/> |
-
-</br>
+<table>
+  <tbody>
+    <tr>
+      <td>Adversarial attack</td>
+      <td align="center">
+        <img src="./Assignment 6/adversarial_attacks_results.jpg" width="580px" />
+      </td>
+    </tr>
+    <tr>
+      <td>GAN generated images</td>
+      <td align="center">
+        <img src="./Assignment 6/dc_gan_results.jpg" width="192px" />
+      </td>
+    </tr>
+    <tr>
+      <td>Style transfer</td>
+      <td align="center">
+        <img src="./Assignment 6/style_transfer_result.jpg" width="192px" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
