@@ -1,6 +1,6 @@
 # EECS 498-007 / 598-005: Deep Learning for Computer Vision
 
-This repository contains my solutions to the six programming assignments and my detailed lecture notes from the University of Michigan's Deep Learning for Computer Vision course.
+This repository contains my solutions to the six programming assignments and my detailed hand-typed lecture notes from the University of Michigan's Deep Learning for Computer Vision course.
 
 <p align="center">
   <a href="https://github.com/justin-hough/EECS498-007/blob/main/Notes.pdf">
@@ -12,7 +12,7 @@ This repository contains my solutions to the six programming assignments and my 
 
 If you're interested in deep learning and computer vision and you have some prerequisite knowledge, I highly recommend this course.
 
-Thanks to Professor Justin Johnson and the team of instructors/aides. View the [**Course Website**](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) and [**Lecture YouTube Playlist**](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) to get started.
+Thanks to Professor Justin Johnson and the team of instructors/aides. View the [**Course Website**](https://web.archive.org/web/20250321195526/https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/) and [**Lecture YouTube Playlist**](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) to get started.
 
 ## Course Overview
 
